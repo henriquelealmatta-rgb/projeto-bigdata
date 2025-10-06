@@ -33,17 +33,6 @@ Contém:
 
 ---
 
-### 3. [INTERFACE_IMPROVEMENTS.md](INTERFACE_IMPROVEMENTS.md)
-**Melhorias da Interface Web**
-
-Contém:
-- Problemas corrigidos (bug da aba IA)
-- Novas funcionalidades
-- Gráficos implementados (9 gráficos)
-- Comparação antes/depois
-- Como testar cada funcionalidade
-
----
 
 ## 🎯 Por Onde Começar?
 
@@ -54,10 +43,6 @@ Contém:
 ### Se você quer entender a arquitetura:
 1. Leia [ARCHITECTURE_SUMMARY.md](ARCHITECTURE_SUMMARY.md)
 2. Explore a estrutura em `data/` (Bronze → Silver → Gold)
-
-### Se você quer usar a interface:
-1. Execute `streamlit run app.py`
-2. Leia [INTERFACE_IMPROVEMENTS.md](INTERFACE_IMPROVEMENTS.md)
 
 ---
 
